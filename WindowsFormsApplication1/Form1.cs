@@ -20,7 +20,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello chronic clicker. Stop clicking me");
+            MessageBox.Show("Hello chronic clicker!");
         }
     }
 }
